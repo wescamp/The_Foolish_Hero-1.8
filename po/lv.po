@@ -1,0 +1,3633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2011-11-14 00:05-0500\n"
+"PO-Revision-Date: 2011-11-14 00:05-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:9
+msgid "The Foolish Hero"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:16
+msgid "The_Foolish_Hero"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:22
+msgid "(easiest)"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:22
+msgid "knucklehead goodguy"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:23
+msgid "(normal)"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:23
+msgid "bumbling hero "
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:24
+msgid "(hardest)"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:24
+msgid "foolish knight"
+msgstr ""
+
+#. [campaign]: id=The_Foolish_Hero
+#: _main.cfg:26
+msgid ""
+"Sometimes the only people ready to die for what's right happen to be the "
+"fools. Maybe because they just don't know what's good for them, maybe "
+"because they are taken in by idealogies, but for some reason heroes were "
+"usually called the fool. I think I'll tell you a tale about a fool now. He "
+"was just a lazy knight that enjoyed napping instead of fighting battles. But "
+"somehow, when things got hard, he was the only one to save the land. And "
+"later the world, but that's for some other time. "
+msgstr ""
+
+#. [about]
+#: _main.cfg:31
+msgid "programming, debugging and testing, maintenance"
+msgstr ""
+
+#. [about]
+#: _main.cfg:37
+msgid "WML help"
+msgstr ""
+
+#. [about]
+#: _main.cfg:49
+msgid "ideas, suggestions, corrections, testing"
+msgstr ""
+
+#. [about]
+#: _main.cfg:58
+msgid "many texts, grammar corrections, some ideas"
+msgstr ""
+
+#. [about]
+#: _main.cfg:64
+msgid "Images and portraits taken from various versions of the following:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:74
+msgid "some artwork made by"
+msgstr ""
+
+#. [about]
+#: _main.cfg:82
+msgid "Music"
+msgstr ""
+
+#. [scenario]: id=01_Lets_Begin
+#: scenarios/01_Lets_Begin.cfg:4
+msgid "Lets_Begin"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Lets_Begin.cfg:55
+msgid ""
+"Once upon a time in a land called Wesnoth, far far, away, since the last "
+"gate was closed, lived a knight named Dendrian the Fool. Why he was called "
+"'the fool' was, rather obvious, though stout of heart and brave was for "
+"sure. Surely, people said, that there was no stronger swordsman in all the "
+"land! And while young soldiers admired him, (when no was there to mock him) "
+"other knights and lords scoffed. 'surely there is more to a knight than his "
+"sword!' they said to each other. What Sir Dendrian thought about how people "
+"treated him, he never said."
+msgstr ""
+
+#. [part]
+#: scenarios/01_Lets_Begin.cfg:60
+msgid ""
+"When his father died on an journey to the north, people looked to the brawny "
+"yet thickskulled son to step up and fill his place at the Order of Isar; a "
+"group of Men and Elves that wandered the land in search of adventure and "
+"enemies of the crown. His Father had been a questing sort, and rarely paid "
+"much attention to the estate. Though the peasants never were harmed by any "
+"attack, they grumbled that their lord neglected all but the taxes. So when "
+"Dendrian became master of the house, things were in great disrepair. The "
+"other members of the council were all respected and powerful men, seeing "
+"this foolish youth in their presence was a disgrace, they said. They smirked "
+"at his puny and abandoned estate, his lack of knowledge, even his accent, "
+"but he never said anything, and simply puttered about for twenty years. "
+msgstr ""
+
+#. [part]
+#: scenarios/01_Lets_Begin.cfg:65
+msgid ""
+" Nothing ever  exciting happened for him, and people never really thought "
+"much of anything that happened up in that wild part of Wesnoth. So I will "
+"tell you how this fool happend to change the land, when the generals, kings, "
+"and wizards couldn't. It really is a simple one, that happened to a simple "
+"person, but for some reason, all the wise and clever people never understood "
+"how, or why he did it. I think I know why, so I will tell you."
+msgstr ""
+
+#. [part]
+#: scenarios/01_Lets_Begin.cfg:70
+msgid ""
+" It was a sunny day in early summer, and all the birds were singing. He "
+"lived alone on the estate with a handful of servants and a boy whom he "
+"called his squire. In truth the boy was a son of a rich family who thought "
+"somehow the call of a squire would be healthy for his character, and Sir "
+"Dendrian was the only person foolish enough to take him. "
+msgstr ""
+
+#. [side]: type=Foolish Knight, id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:23 scenarios/01_Lets_Begin.cfg:79
+#: scenarios/02_The_Road.cfg:51 scenarios/06_riverstory.cfg:32
+#: scenarios/05_Brendalas-b.cfg:23 scenarios/09_Carcyn-a.cfg:22
+#: scenarios/03_Brendalas.cfg:24 scenarios/07_river.cfg:20
+#: scenarios/04_Counsel.cfg:23
+msgid "Sir Dendrian"
+msgstr ""
+
+#. [side]: type=Foolish Knight, id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:28 scenarios/01_Lets_Begin.cfg:84
+#: scenarios/02_The_Road.cfg:56 scenarios/05_Brendalas-b.cfg:28
+#: scenarios/09_Carcyn-a.cfg:27 scenarios/03_Brendalas.cfg:29
+msgid "Fools"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:130
+msgid "Study"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:134
+msgid "Church"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:138
+msgid "Stables"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:142
+msgid "Treasury"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:146
+msgid "Hall"
+msgstr ""
+
+#. [label]
+#: scenarios/01_Lets_Begin.cfg:150
+msgid "Table of Doom"
+msgstr ""
+
+#. [unit]: type=Squire, id=Trantel
+#: scenarios/01_Lets_Begin.cfg:156
+msgid "Trantel"
+msgstr ""
+
+#. [unit]: type=Knight, id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:169
+msgid "Sir Harrold"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_Lets_Begin.cfg:182
+msgid "Leave for the council once everything is ready"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_Lets_Begin.cfg:186
+msgid "you can't possibly die"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_Lets_Begin.cfg:190
+msgid "no, I am serious, it's impossible"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_Lets_Begin.cfg:194
+msgid "you get there late"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:204
+msgid "Ahh, what a relaxing day..."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:208
+msgid ""
+"That's all you ever do! We haven't gone on a quest for almost a month! all "
+"summer has been nap after nap!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:212
+msgid ""
+"You forgot the undead we killed last Saturday. And summers are for napping, "
+"that's why the orcs attack in the winter, so that you can nap when the "
+"weather's nice."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:216
+msgid ""
+"That wasn't a quest, they just appeared in SwanFord and we traveled a day to "
+"kill them. That's called an incident, not an adventure."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:220
+msgid "How come you aren't asking about the orc statement?"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:224
+msgid "Because it's true. The orcs do attack in wintertime."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:228
+msgid "So you agree we should nap in the summer?"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:232
+msgid "No!"
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:236 scenarios/04_Counsel.cfg:212
+msgid "Greetings good sirs!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:240
+msgid ""
+"Naps help prepare you for adventures. For all you know that guy over there "
+"is about to send us off to some where dangerous."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:244
+msgid "Which is why we should answer him!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:248
+msgid "I was being metaphorical."
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:252
+msgid "Um, hello? is anybody home?"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:256
+msgid "Oh! Hello, Sir-.... what's your name again?"
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:260
+msgid "Harrold."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:264
+msgid ""
+"Greetings Sir Harrold! Care to come in for a sandwich or a slice of cake?"
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:268
+msgid "No thankyou, I bring a message from the Grand Master!"
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:272
+msgid ""
+"He calls a council of all knights, from the Order of Isar to gather at "
+"Brendalas on June the 25th, 734 Year of Wesnoth."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:276
+msgid "No kidding! I will be on my way the minute I am ready!"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:280
+msgid "Saved in the nick of time!"
+msgstr ""
+
+#. [message]: id=Sir Harrold
+#: scenarios/01_Lets_Begin.cfg:284
+msgid ""
+"I will await your coming at the crossroads. come before noon, for I fear "
+"that the roads to Brendalas may prove dangerous and slow work of late."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/01_Lets_Begin.cfg:288
+msgid "Sounds like fun!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:292
+msgid ""
+"Remember: You can access your log by right-clicking on Dendrian, and all "
+"your inventory items can be accessed by right-clicking on a unit. "
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:305
+msgid "Hey! What's all these crumbs for? Has someone infiltrated this place? "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:309
+msgid "If you didn't eat cookies in bed this wouldn't happen."
+msgstr ""
+
+#. [unit]: type=Scary Peasant, id=Dwimdry
+#: scenarios/01_Lets_Begin.cfg:323
+msgid "Dwimdry"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:334
+msgid "Hello Dwimdry!"
+msgstr ""
+
+#. [message]: speaker=Dwimdry
+#: scenarios/01_Lets_Begin.cfg:338
+msgid "Hello. Very fine morning. To be bored."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:342
+msgid "I suppose being a farmer is pretty dull."
+msgstr ""
+
+#. [option]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:345
+msgid ""
+"Care to come with us? It will be a relief to have another blade on our "
+"journey."
+msgstr ""
+
+#. [message]: speaker=Dwimdry
+#: scenarios/01_Lets_Begin.cfg:349
+msgid "Alright! when do we leave?"
+msgstr ""
+
+#. [option]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:358
+msgid "Ha ha! Have fun sitting around while we have adventures!"
+msgstr ""
+
+#. [message]: speaker=Dwimdry
+#: scenarios/01_Lets_Begin.cfg:363
+msgid "@#$%!$$&%@ You little lordlings!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:381
+msgid "We never got around to finishing that game of Battle for Wesnoth. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:385
+msgid "That's because we lost the dice, remember?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:389
+msgid ""
+"Yeah, that game was way too complicated with numbers and stuff. Someday I am "
+"going to convert that game to some sort of magic machine that runs all the "
+"stuff on RNG. It would be so much more fair that way. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:401
+msgid "Ever thought it odd about the placement of this statue?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:405
+msgid ""
+"I believe it was placed in memory of a certian way-ward relation of the "
+"Dendrian house who came to a bad end. There ought to be a touching sonnet "
+"inscribed in the bottom. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:409
+msgid "Let me see.... "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:413
+msgid ""
+"Cursed, fool boy who took the oath, swearing to watch with eye of hawk, may "
+"you never live or die, may you never breath or talk. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:417
+msgid ""
+"As you swore, so must you stand, to wait for a touch from God's hand, or "
+"until this hall, stands burned and bare, and your secret touched, by Truth's "
+"cold glare. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:421
+msgid "Oh. That was an odd thing to write. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:433
+msgid ""
+"This used to be a hall, but now over the years since its cunstruction, it "
+"has degenerated into a cellar."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:437
+msgid "Hasn't all of this house?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:445
+msgid "Where are the servants?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:449
+msgid ""
+"I gave both of them leave of the house, as I thought this would be a normal "
+"day."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:453
+msgid "But it is a normal day!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:461
+msgid ""
+"I beleive that Dwimdry, one of the peasants in the village, might want to go "
+"with us."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:465
+msgid "Really? that would be nice. Maybe I should ask him along."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:469
+msgid "Yeah, you should see him fight sometimes."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:483
+msgid "Good morning my Lord! perfect day for fishing!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:487
+msgid "Why are you holding a club? "
+msgstr ""
+
+#. [message]: speaker=Sur Dendrian
+#: scenarios/01_Lets_Begin.cfg:491
+msgid "I thought you said that it was the tool for catching nagas."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:496
+msgid "Yep, It's called club fishing, but I use it to keep nagas away."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:500
+msgid "Whoa. I never knew that nagas lived here."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:505
+msgid ""
+" *whisper* He is actually buying this.*whisper* Oh yessir, lots of them "
+"nagas, just when yeh thought it was safe to go back to the river..."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:517
+msgid ""
+"That statue commemerates the famous King Konrad, who supposedly knighted the "
+"first of the Dendrian line at the battle of Blowing Snow."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:530
+msgid ""
+"(chanting) Illus Patren manen camu. Illus Patren nobisen manen caren decyn "
+"hallun, Nunvyc manen nobisen Wesnoth, amen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:535
+msgid ""
+"Glorus deiu tarden, Glorus deius Illus Patru. Glorus namyn daren hallun, "
+"amen."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:548
+msgid ""
+"Don't worry, I've got all the money I'll ever need in my purse. This "
+"shouldn't be a very expensive journey."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:552
+msgid "Shouldn't you lock the door, or at least this chest?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:556
+msgid "Oh yeah, I guess I forgot about that."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:560
+msgid "Frankly I am amazed you still have any money left in this room at all."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:572
+msgid "there is really no time for reading."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:576
+msgid "But look how many turns you have!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:580
+msgid ""
+"You know, I am beginning to think that we should limit your board game time."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:584
+msgid "Aww, totally unrelated!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Lets_Begin.cfg:598
+msgid ""
+"On the shelf is a book called 'the player's guide to BfW', and handful of "
+"bottled potions."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:602
+msgid "I'm saving these, so just take one or so."
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:605 scenarios/01_Lets_Begin.cfg:630
+msgid "Take this potion?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:613
+msgid "I think this will come in handy when the road gets tough."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_Lets_Begin.cfg:638
+msgid "This one looks fun!"
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:655
+msgid "Take this bottle labeled UNKNOWN SUBSTANCE?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:662
+msgid ""
+"I have no clue what that one does. Never really opened it, but I guess it "
+"might come in handy."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:666
+msgid "Why did you buy it if you didn't know what it does?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:670
+msgid "Oh, I thought it was a good deal."
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:687
+msgid "Take some notes wedged into the guide."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:694
+msgid ""
+"After all, there might be someone at an inn that would want to play an mp "
+"with me. Better take those notes."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:698
+msgid ""
+"You mean there are other people that play that boardgame called Battle for "
+"Wesnoth?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:702
+msgid "Yeah, where did you grow up? Under a rock?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:706
+msgid "Huh? I grew up here, Didn't you know that?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/01_Lets_Begin.cfg:710
+msgid "Never mind."
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#. [message]: speaker=Sir Dendrian
+#: scenarios/01_Lets_Begin.cfg:726 scenarios/02_The_Road.cfg:315
+msgid "On we go!"
+msgstr ""
+
+#. [scenario]: id=02_The_Road
+#: scenarios/02_The_Road.cfg:4
+msgid "The_Road"
+msgstr ""
+
+#. [part]
+#: scenarios/02_The_Road.cfg:43
+msgid ""
+"The way was merry, while they traveled under the eaves of Dimwood, but when "
+"the road soon turned and plunged into the deep fastness of the forest, "
+"things began to change."
+msgstr ""
+
+#. [side]: type=Wolf, id=Wolf
+#: scenarios/02_The_Road.cfg:67
+msgid "Wolfy"
+msgstr ""
+
+#. [side]: type=Bandit, id=Baddie
+#: scenarios/02_The_Road.cfg:81
+msgid "Baddie"
+msgstr ""
+
+#. [side]: type=Ogre, id=Hungry
+#: scenarios/02_The_Road.cfg:95
+msgid "Hungry"
+msgstr ""
+
+#. [side]: type=Gorer, id=Pig
+#: scenarios/02_The_Road.cfg:109
+msgid "Pig"
+msgstr ""
+
+#. [side]: type=Wolf, id=Wollfs
+#: scenarios/02_The_Road.cfg:123
+msgid "Wolfes"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_The_Road.cfg:142 scenarios/02_The_Road.cfg:407
+msgid "Make your way down the south road to Brendalas"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_The_Road.cfg:146 scenarios/02_The_Road.cfg:415
+msgid "Death of a Hero"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_The_Road.cfg:150 scenarios/02_The_Road.cfg:419
+msgid "And you lose a pack pony"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_The_Road.cfg:154 scenarios/02_The_Road.cfg:423
+#: scenarios/03_Brendalas.cfg:98
+msgid "you run out of time"
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/02_The_Road.cfg:239
+msgid ""
+"Well I suppose this is when it gets difficult, I can hear wolves howling, "
+"and the way my mount is acting, there is ogres nearby. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:243
+msgid ""
+"This place is getting out of hand, some one ought to clean this forest up! "
+msgstr ""
+
+#. [message]: speaker=Hungry
+#: scenarios/02_The_Road.cfg:247
+msgid "Yum Yum! Ogre smells humans and boars! Soon ogre not be hungry!"
+msgstr ""
+
+#. [message]: speaker=Baddie
+#: scenarios/02_The_Road.cfg:251
+msgid ""
+"Ah great, it's a bunch of knights! no easy pickings there! I was hoping for "
+"some blundering merchants to rob!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:255
+msgid "How about us?"
+msgstr ""
+
+#. [message]: id=Odyses
+#. [message]: speaker=Kendra
+#: scenarios/08_Back_in_Business.cfg:480 scenarios/02_The_Road.cfg:294
+msgid "Help!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_The_Road.cfg:298
+msgid "Look! there is a mage in that tree!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:319
+msgid "Aww, I was having fun!"
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/02_The_Road.cfg:323
+msgid "Um, mind if I come along?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_The_Road.cfg:345
+msgid ""
+"South: Brendalas. \n"
+"West: Thyndra. \n"
+"East: Perergrand."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:356
+msgid "Ah great, there goes the supplies!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_The_Road.cfg:368
+msgid "Aaaah! Get back you beast!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:376
+msgid "Did you hear that? someone is in trouble!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:380
+msgid "Probably a bandit."
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/02_The_Road.cfg:390
+msgid ""
+"That voice doesn't sound very masculine. I think we should investigate. It "
+"sounds like it's coming from the south."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:394
+msgid ""
+"Fine. But if there is some beautiful woman in distress, I'll go beg the "
+"wolves to eat me."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:398
+msgid "I think the ogres will be less painful."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:402
+msgid "Bah, forget it. Let's go check it out."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_The_Road.cfg:411
+msgid "Optional: Check out the noises south of here."
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/02_The_Road.cfg:441
+msgid "Ah great, more wolves are gathering!"
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/02_The_Road.cfg:457
+msgid "Those howls are getting closer! Let's hurry!"
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/02_The_Road.cfg:504
+msgid "Wow, some heroes you guys are."
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/02_The_Road.cfg:523
+msgid ""
+"Thanks boys, I was ambushed by this stupid brute while traveling to "
+"Brendalas, and was sort of, well, in trouble until you people showed up. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:527
+msgid "No sweat, that's out job and all, helping people in distress."
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/02_The_Road.cfg:531
+msgid ""
+"I was NOT in distress! I was just sort of in mortal danger and DIDN'T NEED "
+"any big and strong knight on a white horse to rescue me, I just needed a "
+"little help to stop me from dying. "
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/02_The_Road.cfg:535
+msgid "He's on foot."
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/02_The_Road.cfg:539
+msgid "Hush boy, she's a feminist."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/02_The_Road.cfg:568
+msgid "Well well, the blighter had a bag of gold under his coat."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:572
+msgid "That's called thieving the dead, show some respect, even for bandits."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/02_The_Road.cfg:580
+msgid "Twenty five gold coins is twenty five gold coins."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/02_The_Road.cfg:585
+msgid ""
+"I wouldn't do that, son. Trivial matters like these have a way of haunting "
+"you. In this case possibly literaly."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_The_Road.cfg:592
+msgid "Arrg...."
+msgstr ""
+
+#. [scenario]: id=05_Brendalas-b
+#. [scenario]: id=03_Brendalas
+#: scenarios/05_Brendalas-b.cfg:4 scenarios/03_Brendalas.cfg:4
+msgid "Brendalas"
+msgstr ""
+
+#. [side]: type=General, id=Guard
+#: scenarios/05_Brendalas-b.cfg:39 scenarios/03_Brendalas.cfg:40
+msgid "Captain of the Guard"
+msgstr ""
+
+#. [side]: type=General, id=Guard
+#: scenarios/05_Brendalas-b.cfg:44 scenarios/03_Brendalas.cfg:45
+msgid "City Guards"
+msgstr ""
+
+#. [side]: type=Smart Knight, id=Grent
+#: scenarios/05_Brendalas-b.cfg:53 scenarios/03_Brendalas.cfg:54
+msgid "Grent"
+msgstr ""
+
+#. [side]: type=Smart Knight, id=Grent
+#: scenarios/05_Brendalas-b.cfg:58 scenarios/03_Brendalas.cfg:59
+msgid "Knights of Isar"
+msgstr ""
+
+#. [side]: type=Noble Youth, id=City Slicker
+#: scenarios/05_Brendalas-b.cfg:67 scenarios/03_Brendalas.cfg:68
+msgid "City Slicker"
+msgstr ""
+
+#. [side]: type=Noble Youth, id=City Slicker
+#: scenarios/05_Brendalas-b.cfg:72 scenarios/03_Brendalas.cfg:73
+msgid "Civilians"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Brendalas.cfg:86
+msgid "Get to the counsel hall"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/03_Brendalas.cfg:90
+msgid "You have to be either really smart or really, really, stupid"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/03_Brendalas.cfg:94
+msgid "Come on, how are you going to lose in a big town?"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:100 scenarios/03_Brendalas.cfg:105
+msgid "Hall of Isar"
+msgstr ""
+
+#. [unit]: type=Pikeman, id=Dareck
+#: scenarios/05_Brendalas-b.cfg:131 scenarios/03_Brendalas.cfg:112
+msgid "Dareck"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Redshirt
+#: scenarios/03_Brendalas.cfg:124
+msgid "Redshirt"
+msgstr ""
+
+#. [unit]: type=Pikeman, id=Dalsmok
+#: scenarios/05_Brendalas-b.cfg:143 scenarios/03_Brendalas.cfg:136
+msgid "Darecks secret twin"
+msgstr ""
+
+#. [unit]: type=Heavy Infantryman, id=Bored
+#: scenarios/03_Brendalas.cfg:148
+msgid "Bored"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Dwun
+#: scenarios/05_Brendalas-b.cfg:155 scenarios/03_Brendalas.cfg:160
+msgid "Dwun"
+msgstr ""
+
+#. [unit]: type=Bowman, id=Piffle
+#: scenarios/03_Brendalas.cfg:172
+msgid "Piffle"
+msgstr ""
+
+#. [unit]: type=Sergeant, id=Puffle
+#: scenarios/03_Brendalas.cfg:180
+msgid "Puffle"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Tompkins
+#: scenarios/05_Brendalas-b.cfg:167 scenarios/03_Brendalas.cfg:188
+msgid "Tompkins"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Dibble
+#: scenarios/03_Brendalas.cfg:197
+msgid "Dibble"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Snort
+#: scenarios/03_Brendalas.cfg:205
+msgid "Snort"
+msgstr ""
+
+#. [unit]: type=Heavy Infantryman, id=Fatguy
+#: scenarios/03_Brendalas.cfg:213
+msgid "Fatguy"
+msgstr ""
+
+#. [unit]: type=Noble Youth, id=Misle
+#: scenarios/03_Brendalas.cfg:229
+msgid "Misle"
+msgstr ""
+
+#. [unit]: type=Noble Youth, id=Gret
+#: scenarios/03_Brendalas.cfg:237
+msgid "Gret"
+msgstr ""
+
+#. [unit]: type=Noble Youth, id=Sarge
+#: scenarios/05_Brendalas-b.cfg:198 scenarios/03_Brendalas.cfg:245
+msgid "Sarge"
+msgstr ""
+
+#. [unit]: type=Smith, id=Derrnt
+#: scenarios/05_Brendalas-b.cfg:213 scenarios/03_Brendalas.cfg:253
+msgid "Derrnt"
+msgstr ""
+
+#. [unit]: type=Thief, id=Evilman
+#: scenarios/03_Brendalas.cfg:261
+msgid "Evilman"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Doms
+#: scenarios/05_Brendalas-b.cfg:223 scenarios/03_Brendalas.cfg:269
+msgid "Doms"
+msgstr ""
+
+#. [unit]: type=Talking Horse, id=YourFriend
+#: scenarios/03_Brendalas.cfg:277
+msgid "Cart"
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/03_Brendalas.cfg:309
+msgid "Hurry up, the counsel will have started already."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:313
+msgid "Okay. They will be in the hall, right?"
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/03_Brendalas.cfg:317
+msgid "Yes, as usual. If not, I would have been in greater hurry."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/03_Brendalas.cfg:321
+msgid "Heheh."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:325
+msgid "Huh?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:338
+msgid "Am I late this time?"
+msgstr ""
+
+#. [message]: speaker=Test
+#: scenarios/03_Brendalas.cfg:342
+msgid "Is the sky blue?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:346
+msgid "Tough one, it looks kinda reddish orange."
+msgstr ""
+
+#. [message]: speaker=Grent
+#: scenarios/03_Brendalas.cfg:350
+msgid "Just go in before someone proposes to exile you from the order. "
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/03_Brendalas.cfg:361
+msgid "Sirs?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:365 scenarios/03_Brendalas.cfg:369
+msgid "Yeah?"
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/03_Brendalas.cfg:373
+msgid ""
+"I've got to run my errand now, but, not to sound grateful or anything, but "
+"thanks."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/03_Brendalas.cfg:377
+msgid "No problem."
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/03_Brendalas.cfg:381
+msgid ""
+"If ever you are in need of help, I will be glad to repay your debt someday."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/03_Brendalas.cfg:385
+msgid "Oh, good bye and go away!"
+msgstr ""
+
+#. [message]: speaker=Sir Harrold
+#: scenarios/03_Brendalas.cfg:389
+msgid "Silence boy."
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:433
+msgid "Hallo there! 'Alooking for a repair to that sword of yours?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:437
+msgid "No. Does my sword look in need of repair?"
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:441
+msgid ""
+"Well, to me it does. If not, will you have somethin' done in the way of iron?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:445
+msgid ""
+"Nay, how goeth business? I didn't think a smith would get much making swords "
+"in a peaceful town like this one."
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:449
+msgid ""
+"Peaceful? Heh, that's wot them guards want yeh to beleive. I seen otherwise "
+"with these two eyes that be awatching you now."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:453
+msgid "You mean the royals are hiding some insurrection against the crown?"
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:457
+msgid "Rebellion? Nah. Once, for  year I traveled north, just two summers ago."
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:461
+msgid ""
+" Was in a town working for the royals making weaponry, pretty good pay mind "
+"you, and what sort of folk and things you saw there! Almost makes you "
+"beleive those loons in Swanford talking about undead again. "
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:465
+msgid "After all, what I saw might have been that. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:469
+msgid "What did you see?"
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/03_Brendalas.cfg:473
+msgid ""
+"Not for yew teh know, I aint dumb and deaf you know, to go spilling me ale "
+"on every passerby, as they say."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:477
+msgid "I see. Have a nice day."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:493
+msgid ""
+"I wonder where the driver is. Kind of stupid to leave his horse lugging this "
+"cart around town."
+msgstr ""
+
+#. [message]: speaker=YourFriend
+#: scenarios/03_Brendalas.cfg:497
+msgid "*stares*"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:501
+msgid "This horses stare is giving me the creeps."
+msgstr ""
+
+#. [message]: speaker=YourFriend
+#: scenarios/03_Brendalas.cfg:505
+msgid "That's the best news I've heard today."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:509
+msgid "Who said that!?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:525
+msgid "Hello! How is it going?"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: scenarios/03_Brendalas.cfg:529
+msgid "Oh quite fine."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:533
+msgid ""
+"Why do you suppose such a large garrison was placed in such a safe city?"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: scenarios/03_Brendalas.cfg:537
+msgid ""
+"It's called the law most inquisitive one. The size of the city regulates the "
+"amount of royal troops the crown sends."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:452 scenarios/03_Brendalas.cfg:552
+msgid "Hello! On guard duty?"
+msgstr ""
+
+#. [message]: speaker=Dareck
+#: scenarios/03_Brendalas.cfg:556
+msgid "....."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:560
+msgid "The fellow must be asleep."
+msgstr ""
+
+#. [message]: speaker=Dareck
+#: scenarios/03_Brendalas.cfg:564
+msgid "What? "
+msgstr ""
+
+#. [message]: speaker=Dareck
+#: scenarios/03_Brendalas.cfg:568
+msgid "Did someone say something? "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:583
+msgid ""
+"Good afternoon! You know what, you look just like that fellow over there!"
+msgstr ""
+
+#. [message]: speaker=Dalsmok
+#: scenarios/05_Brendalas-b.cfg:487 scenarios/03_Brendalas.cfg:587
+msgid "Naturally."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:491 scenarios/03_Brendalas.cfg:591
+msgid "How so?"
+msgstr ""
+
+#. [message]: speaker=Dalsmok
+#: scenarios/05_Brendalas-b.cfg:495 scenarios/03_Brendalas.cfg:595
+msgid "*winks* "
+msgstr ""
+
+#. [message]: speaker=Thinguy
+#: scenarios/03_Brendalas.cfg:610
+msgid ""
+"This town is not like the other cities I've visited at all. Everything is "
+"quiet and clean, and these trees remind me of home."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:614
+msgid "Here on business?"
+msgstr ""
+
+#. [message]: speaker=Thinguy
+#: scenarios/03_Brendalas.cfg:618
+msgid "Aye. Plenty of things long quiet will be waking up soon. "
+msgstr ""
+
+#. [message]: speaker=Evilman
+#: scenarios/03_Brendalas.cfg:633
+msgid "Hey there. Need a lawyer?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:637
+msgid ""
+"You don't look like a lawyer. And judging from your died hair, you belong to "
+"a street gang. Shove off!"
+msgstr ""
+
+#. [message]: speaker=Doms
+#: scenarios/03_Brendalas.cfg:641
+msgid "Hey! There is that rascal the guards were chasing last night! Guards! "
+msgstr ""
+
+#. [message]: speaker=Evilman
+#: scenarios/03_Brendalas.cfg:645
+msgid "Curse you knights! You'll need a lawyer once I am done with you!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:663
+msgid "The fashions these days!"
+msgstr ""
+
+#. [message]: speaker=Redshirt
+#: scenarios/03_Brendalas.cfg:679
+msgid "Hey you there! Get off the docks!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:683
+msgid "What's your issue?"
+msgstr ""
+
+#. [unit]: type=Tentacle of the Deep, id=Me
+#: scenarios/03_Brendalas.cfg:688
+msgid "Freaky Monster of the week"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:694
+msgid "Aaaiiieeee! The Freaky Monster of the Week!"
+msgstr ""
+
+#. [message]: speaker=Redshirt
+#: scenarios/03_Brendalas.cfg:698
+msgid "Quick! security!"
+msgstr ""
+
+#. [message]: speaker=Redshirt
+#: scenarios/03_Brendalas.cfg:703
+msgid "Aaaagh! It's got me!"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: scenarios/03_Brendalas.cfg:712
+msgid "What's going on!?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Brendalas.cfg:720
+msgid "Too late, it got away!"
+msgstr ""
+
+#. [message]: speaker=Kendra
+#: scenarios/03_Brendalas.cfg:724
+msgid "And they call this place peaceful."
+msgstr ""
+
+#. [scenario]: id=04_Counsel
+#: scenarios/04_Counsel.cfg:4
+msgid "Counsel"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Sir Dwimlyr
+#: scenarios/04_Counsel.cfg:40
+msgid "Sir Dwimlyr"
+msgstr ""
+
+#. [side]: type=Knight, id=Sir Gredryan
+#: scenarios/04_Counsel.cfg:56
+msgid "Sir Gredryan"
+msgstr ""
+
+#. [side]: type=Foot Knight, id=Sir Calindar
+#: scenarios/04_Counsel.cfg:72
+msgid "Sir Calindar"
+msgstr ""
+
+#. [side]: type=Foot Knight, id=Sir Owyced
+#: scenarios/04_Counsel.cfg:89
+msgid "Sir Owyced"
+msgstr ""
+
+#. [side]: type=Cool Knight, id=Sir Barrick
+#: scenarios/04_Counsel.cfg:104
+msgid "Sir Barrick"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Thynyelar
+#: scenarios/04_Counsel.cfg:120
+msgid "Thynyelar"
+msgstr ""
+
+#. [unit]: type=Short Paladin, id=Brother Perimor
+#. [side]: type=Short Paladin, id=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:297 scenarios/04_Counsel.cfg:135
+msgid "Brother Perimor"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Grand Master
+#: scenarios/04_Counsel.cfg:151
+msgid "Grand Master"
+msgstr ""
+
+#. [unit]: type=Elvish Marksman, id=Haldyn
+#: scenarios/04_Counsel.cfg:169
+msgid "Haldyn"
+msgstr ""
+
+#. [unit]: type=Elvish Captain, id=Morelmeir
+#: scenarios/04_Counsel.cfg:181
+msgid "Morelmeir"
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:195
+msgid "Have we finally all assembled?"
+msgstr ""
+
+#. [message]: id=Brother Perimor
+#: scenarios/04_Counsel.cfg:199
+msgid "I beleive one of us is missing."
+msgstr ""
+
+#. [message]: id=Sir Owyced
+#: scenarios/04_Counsel.cfg:203
+msgid "Hopefully he won't show up."
+msgstr ""
+
+#. [message]: id=Sir Calindar
+#: scenarios/04_Counsel.cfg:207
+msgid "*chuckles*"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/04_Counsel.cfg:218
+msgid "What did I miss?"
+msgstr ""
+
+#. [message]: id=Sir Barrick
+#: scenarios/04_Counsel.cfg:223
+msgid "Nothing so far."
+msgstr ""
+
+#. [message]: id=Sir Owyced
+#: scenarios/04_Counsel.cfg:227
+msgid "Unfortunately."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:231
+msgid ""
+"Ahem, now that we are all here, for the most part, I must tell you some very "
+"important news that was reported to the crown only two months ago."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:235
+msgid ""
+"A little to the north of Abez, in the grasslands beyond, a group of "
+"merchants discovered something very, very interesting."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/04_Counsel.cfg:239
+msgid "Which was...?"
+msgstr ""
+
+#. [message]: id=Morelmeir
+#: scenarios/04_Counsel.cfg:243
+msgid "Shutup."
+msgstr ""
+
+#. [message]: id=Sir Owyced
+#: scenarios/04_Counsel.cfg:247
+msgid "You can say that again!"
+msgstr ""
+
+#. [message]: id=Morelmeir
+#: scenarios/04_Counsel.cfg:251
+msgid "You shutup too."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:255
+msgid ""
+"They chanced upon a band of creatures, encamped around, an old ruin, nothing "
+"left but a few standing stones."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:259
+msgid "And the creatures, turned out to be, what appeared to be humans."
+msgstr ""
+
+#. [message]: id=Sir Dwimlyr
+#: scenarios/04_Counsel.cfg:263
+msgid "Appeared?"
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:267
+msgid ""
+"Yes, appeared. They were doubtless sorcerers, and these poor travelers soon "
+"witnessed something that has worried us."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/04_Counsel.cfg:271
+msgid "Go on."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:275
+msgid ""
+"They saw, or they thought they saw, one of the people transform before their "
+"very eyes, into the shape of the most infamous of all creatures."
+msgstr ""
+
+#. [message]: id=Thynyelar
+#: scenarios/04_Counsel.cfg:279
+msgid "Which was?"
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:283
+msgid "A dragon."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:287
+msgid ""
+"The poor merchants were soon detected, and only a few escaped alive to tell "
+"the tale. After that, only a few days later, the ford itself, was attacked "
+"by some force in the night. "
+msgstr ""
+
+#. [message]: id=Sir Dwimlyr
+#: scenarios/04_Counsel.cfg:291
+msgid "Orcs?"
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:295
+msgid ""
+"No, the soldiers repelled the attackers at dawn, but said that they were "
+"assailed by all manners of sorcery and black magic. The accounts varied from "
+"man to man, some said bestial creatures of darkness, others said undead, "
+"some said mages, and so on."
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:299
+msgid ""
+"The Kingdom sent a battalion of men to reinforce our borders, and requested "
+"aid of Alduin. Undead attacks have been springing up, and for no reason "
+"really, nobles are panicking. All sorts conspiracy theories are sprouting "
+"up, and though word moves slow, panick is spreading like a fire. Every raid "
+"from bandits to ghosts is blamed on this incident, and there is too many "
+"tall tales to distinguish from the real ones.  "
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:303
+msgid ""
+"Our oath 'the help of the helpless, and the pursuit of the enemy', and "
+"today, I command the Knights of the Order to find out the bottom of this "
+"travesty.  "
+msgstr ""
+
+#. [message]: id=Thynyelar
+#: scenarios/04_Counsel.cfg:307
+msgid "Aye! For the oath of our founder!"
+msgstr ""
+
+#. [message]: id=Sir Dwimlyr
+#: scenarios/04_Counsel.cfg:311
+msgid "And for the adventure before us!"
+msgstr ""
+
+#. [message]: id=Grand Master
+#: scenarios/04_Counsel.cfg:315
+msgid "Forward brave hearts!  "
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/04_Counsel.cfg:319
+msgid "Uh oh. This is beginning to sound like a campaign to me."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Brendalas-b.cfg:86
+msgid "Shop, research, chat, and prepare for your journey!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/05_Brendalas-b.cfg:90
+msgid "get a grand piano dropped on your head"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:104
+msgid "Pet Shop"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:109
+msgid "Jawa Shop"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:114
+msgid "Apothecary"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:118
+msgid "Library"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:122
+msgid "Mercenary post"
+msgstr ""
+
+#. [label]
+#: scenarios/05_Brendalas-b.cfg:126
+msgid "Market"
+msgstr ""
+
+#. [unit]: type=Noble Youth, id=Commy
+#: scenarios/05_Brendalas-b.cfg:190
+msgid "Commy"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:249
+msgid "How did the meeting go?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:253
+msgid ""
+"Not so good. We have to leave to Carcyn. I have some friends there I think "
+"we ought to visit."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:257
+msgid "At once? All right!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:261
+msgid "By boat."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:265
+msgid "What? Noooo!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:280
+msgid "We'll take the boat up downstream to Carcyn now. Are you ready?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:284
+msgid "I suppose... Why do we need to go visiting anyway?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:288
+msgid ""
+"We will be going on a long and dangerous adventure, and I think I will visit "
+"some old friends in case they want to come along "
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:292
+msgid "Well as long as we don't stay too long. "
+msgstr ""
+
+#. [message]: speaker=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:310
+msgid "Dendrian! Are you leaving? "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:314
+msgid "Yeah? "
+msgstr ""
+
+#. [message]: speaker=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:318
+msgid ""
+"Something tells me I should accompany you on your journey, in case, well, "
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:322
+msgid "He does something really stupid? "
+msgstr ""
+
+#. [message]: speaker=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:326
+msgid "Yeah. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:330
+msgid "Ummm....."
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:333
+msgid "Thanks! I was getting worried about the dangers ahead."
+msgstr ""
+
+#. [message]: speaker=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:337
+msgid "Excellent. I hope we fare safely though."
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:346
+msgid "Me, stupid? Huh, forget it, I can manage on my own! "
+msgstr ""
+
+#. [message]: speaker=Brother Perimor
+#: scenarios/05_Brendalas-b.cfg:351
+msgid "Very well. I will remember you in my prayers."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:358
+msgid "That was pretty dumb. You should have let him come along."
+msgstr ""
+
+#. [message]: speaker=Derrnt
+#: scenarios/05_Brendalas-b.cfg:383
+msgid ""
+"Hallo there! Too busy to talk right now! And speaking of which, have yeh "
+"heard the latest about the-"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:387
+msgid "Sorry, in a hurry too."
+msgstr ""
+
+#. [message]: speaker=Tompkins
+#: scenarios/05_Brendalas-b.cfg:402
+msgid "Heh, those little creatures that run a shop, what are they called?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:406
+msgid "Jawas?"
+msgstr ""
+
+#. [message]: speaker=Tompkins
+#: scenarios/05_Brendalas-b.cfg:410
+msgid ""
+"Yeah, they run a pitiful business. Rip you off first chance they get. Don't "
+"do business with them if you can help it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:425
+msgid "Hello! How is it going? Oh, I was wondering if-"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: scenarios/05_Brendalas-b.cfg:429
+msgid ""
+"Oh quite fine. I expect you are going to get on your knees and beg for "
+"soldiers to protect you so I will say-"
+msgstr ""
+
+#. [message]: speaker=Guard
+#: scenarios/05_Brendalas-b.cfg:433
+msgid ""
+"GET A LIFE!!!!! YOU CAN HIRE BUMS TO DO YOUR BIDDING AT THE MERCENARY POST "
+"BECAUSE THIS IS A CAMPAIGN, NOT AN RPG!!!!!!!!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:437
+msgid "Yes....Sir....."
+msgstr ""
+
+#. [message]: speaker=Dareck
+#: scenarios/05_Brendalas-b.cfg:456
+msgid ""
+"Yeah. Did you hear about that tentacle that killed someone yesterday? "
+"Everbody's talking about it. It's witches work, I'll say."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:460
+msgid "You beleive in witches sent a monster to attack people?"
+msgstr ""
+
+#. [message]: speaker=Dareck
+#: scenarios/05_Brendalas-b.cfg:464
+msgid ""
+"You bet. Isn't there some sort of thing going around about black magic at "
+"the fords? Sounds like dark times ahead. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:468
+msgid ""
+"Sounds like a lot of panic and modern media. I never trust the rumours. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:483
+msgid "Wait a second, why is your name Darecks secret twin?"
+msgstr ""
+
+#. [message]: speaker=Thinguy
+#: scenarios/05_Brendalas-b.cfg:510
+msgid ""
+"Humans may seem pretty foolish at times, but these Isar knights have got the "
+"banking idea knocked."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:514
+msgid "Really?"
+msgstr ""
+
+#. [message]: speaker=Thinguy
+#: scenarios/05_Brendalas-b.cfg:518
+msgid ""
+"Aye. Who wants to travel alone in the wilds with a chest of gold when he can "
+"entrust it to some sturdy fellows?"
+msgstr ""
+
+#. [message]: speaker=City Slicker
+#: scenarios/05_Brendalas-b.cfg:535
+msgid ""
+"My brother Richard went off and joined the royal army. I heard he was "
+"deployed at Abez."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:539
+msgid "That's where all that witch stuff is going on, right?"
+msgstr ""
+
+#. [message]: speaker=City Slicker
+#: scenarios/05_Brendalas-b.cfg:543
+msgid "Yeah, he hasn't sent a letter yet. I hope he's alright."
+msgstr ""
+
+#. [message]: speaker=Dudeman
+#: scenarios/05_Brendalas-b.cfg:558
+msgid "I hear that the Crown is putting a tax on non-mage magic users."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:562
+msgid "How can you be a non-mage wizard?"
+msgstr ""
+
+#. [message]: speaker=Dudeman
+#: scenarios/05_Brendalas-b.cfg:566
+msgid ""
+"I have no clue. But hey, it sounds exciting, right? That's what keeps me in "
+"business. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:570
+msgid "In business? Are you a spy or something?"
+msgstr ""
+
+#. [message]: speaker=Dudeman
+#: scenarios/05_Brendalas-b.cfg:574
+msgid "No way, I just report news."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:578
+msgid "Oh I get you. You're a busybody."
+msgstr ""
+
+#. [message]: speaker=Dudeman
+#: scenarios/05_Brendalas-b.cfg:582
+msgid "Yeah, except it costs money to listen to me make stuff up."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:586
+msgid "Huh? Are you some sort of gossipy robber? Do you expect me to pay you?"
+msgstr ""
+
+#. [message]: speaker=Dudeman
+#: scenarios/05_Brendalas-b.cfg:590
+msgid ""
+"Not today, First time is always free. It's a marketing scheme I learned from "
+"a runecaster."
+msgstr ""
+
+#. [message]: speaker=Sarge
+#: scenarios/05_Brendalas-b.cfg:604
+msgid "They finally got that old encampent torn down, it was a real eyesore."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Brendalas-b.cfg:608
+msgid "Why was it there anyway?"
+msgstr ""
+
+#. [message]: speaker=Sarge
+#: scenarios/05_Brendalas-b.cfg:612
+msgid "Oh, I'm not sure. Maybe something with the mercenaries post."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:625
+msgid "I am not THAT desperate!"
+msgstr ""
+
+#. [message]: speaker=Commy
+#: scenarios/05_Brendalas-b.cfg:629
+msgid "What's wrong with mercenaries?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:633
+msgid "I think I should ask 'what's right' about them."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:637
+msgid ""
+"They help protect you, hiring them creates jobs for people otherwise useless "
+"to society, and they make good spinosaurus chow."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:641
+msgid ""
+"Well, um, er, it isn't really nice to hire people that might not be, "
+"chivalrous."
+msgstr ""
+
+#. [message]: speaker=Commy
+#: scenarios/05_Brendalas-b.cfg:645
+msgid ""
+"You are classifying mercenaries as a group. I look at each one like a single "
+"person. You apparently want to deprive the lower class of jobs! This is "
+"class warfare, you white collar rich bourgeois!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:649
+msgid "What? I didn't follow you."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:653
+msgid ""
+"Are you sure you're the one to say that? You probably come from a rich "
+"family."
+msgstr ""
+
+#. [message]: speaker=Commy
+#: scenarios/05_Brendalas-b.cfg:657
+msgid ""
+"The world must be run with an iron fist to protect the rights of the "
+"peasants. "
+msgstr ""
+
+#. [message]: speaker=Commy
+#: scenarios/05_Brendalas-b.cfg:661
+msgid ""
+"If left to the hands of people like you, rich landlords will exploit the "
+"lower class."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/05_Brendalas-b.cfg:665
+msgid "I thought you are the son of a rich landlord."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:669
+msgid "Um, I am confused too."
+msgstr ""
+
+#. [message]: speaker=Commy
+#: scenarios/05_Brendalas-b.cfg:673
+msgid ""
+"Huh, these fools understand nothing. This is why! This is why we must carry "
+"out the armed doctrine! THIS IS FOR YOU OWN GOOD THAT WE MUST TEACH YOU "
+"POLITICS FROM THE THUNDERSTICK! "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/05_Brendalas-b.cfg:677
+msgid ""
+"The more I learn about this town, the more I am glad I live in the country."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:710
+msgid " Hello. Welcome to Jawa shop. What are you wanting to buy, yes?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:714 scenarios/05_Brendalas-b.cfg:1142
+msgid "Not today, just looking."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:719
+msgid "Okay. Come back soon!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:732
+msgid "Buy a health potion for 30g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:759
+msgid "Here you go! comeback soon!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:775
+msgid "*lapses into a frenzied gibberish*"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:784
+msgid "Sell a wolf pelt for 8g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:795
+msgid ""
+"Oooh! Fur skins! Jawa doesn't really need this, but Jawa can sell to dwarves "
+"for gold! Thankyou for selling!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:820
+msgid "Sell strange machine for 120g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:831
+msgid "*goes berserk with joy*"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:890
+msgid " Welcome to the apothecary. What do you need?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:894
+msgid "Nothing for now, just looking."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:899
+msgid "I see. Take care not to break anything."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:912
+msgid "Buy a health potion for 20g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:939
+msgid ""
+"This is a strong potion, and will heal you, no matter how wounded. Use it "
+"wisely!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:955 scenarios/05_Brendalas-b.cfg:1008
+#: scenarios/05_Brendalas-b.cfg:1060
+msgid "I'm afraid I have to run a business, I can't just give things for free."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:965
+msgid "Buy a an antidote for 8g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:992
+msgid ""
+"This is an antidote against poisons, and will only remove your ailment, "
+"nothing more, nothing less."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1017
+msgid "Buy a strength potion for 12g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1044
+msgid "This will make you very strong, but only for a short while."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1068
+msgid "Sell  magical herb for 15g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1079
+msgid "Excellent! I was running short on this ingredient!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1138
+msgid " Hello! Welcome to the pet shop, any animal you're interested in?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1147
+msgid "Alright, thanks for stopping by!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1160
+msgid "Buy a cat for 15g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1187
+msgid "Here's your cat, his father must have been wild, he sure is tough!"
+msgstr ""
+
+#. [unit]: type=Wild Cat, id=Pet2
+#: scenarios/05_Brendalas-b.cfg:1193
+msgid "Heathcliff"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1202 scenarios/05_Brendalas-b.cfg:1260
+msgid "Sorry sir, but you lack the money!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1218
+msgid "Buy a dog for 12g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1245
+msgid "Here you are, he may look docile, but he sure eats a lot!"
+msgstr ""
+
+#. [unit]: type=Dog, id=Pet
+#: scenarios/05_Brendalas-b.cfg:1251
+msgid "Charlie"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1307
+msgid ""
+" Library here. You can do a bit of reading or buy a book, just be quiet "
+"while you're at it."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1311 scenarios/05_Brendalas-b.cfg:1479
+msgid "Leave!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1316
+msgid "No loud noises please."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1329
+msgid "Read a history book"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1334
+msgid ""
+"yadda yadda yadda yadda yadda yadda yadda yadda (I'm sorry, still reading "
+"the timeline) yadda yadda yadda yadda (history is fun, I just am trying to "
+"decide what to write) yadda yadda yadda yadda yadda yadda (If you want, go "
+"to the forums and suggest a topic to be placed in the history book) yadda "
+"yadda blah blah."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1342
+msgid "Sell a book of lore"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1353
+msgid "A new book? Finally! Thanks for contributing!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1379
+msgid "Buy a book on elvish lore for 50g"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1406
+msgid ""
+"Dude, as a warning, that book is the most boring book in the library. That's "
+"why it's on sale. Some random elf contributed it. I think he got hanged for "
+"some reason or other. Anyway, you're the first person to even pick it up."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1411
+msgid "That's why it's on sale, Some random elf contributed it a while back. "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1416
+msgid ""
+" I think he got hanged for some reason or other. Anyway, you're the first "
+"person to even pick it up."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1429
+msgid ""
+"I can see you. Put that book back on the shelf and pay for it like every on "
+"else."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1475
+msgid "See anything you like?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1484
+msgid "Thanks for stopping by."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1499
+msgid "Sell some meat for 10g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1510
+msgid "Thanks!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1536
+msgid "Buy some salt for 10g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1563
+msgid "We get our salt cheap, I hate to have to do without come winter!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1580
+msgid "Don't you even think about shoplifting!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1589
+msgid "Sell a wolf pelt for 14g."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/05_Brendalas-b.cfg:1600
+msgid ""
+"Thanks for the offer! Those hunters down by Carcyn are cut purses, and "
+"nobody wants to go back into Dimwood; says there's too many bandits, though "
+"I hear they've got wolves roaming the area out of control!"
+msgstr ""
+
+#. [scenario]: id=06_riverstory
+#: scenarios/06_riverstory.cfg:4
+msgid "RiverStory"
+msgstr ""
+
+#. [part]
+#: scenarios/06_riverstory.cfg:20
+msgid ""
+"Some people believe that boat is a fast and smooth way to travel. I "
+"personally prefer to stay on dry land."
+msgstr ""
+
+#. [part]
+#: scenarios/06_riverstory.cfg:25
+msgid "Here is an example.  "
+msgstr ""
+
+#. [side]: type=Skeleton, id=River Bones
+#: scenarios/06_riverstory.cfg:48
+msgid "River Bones"
+msgstr ""
+
+#. [unit]: type=Boat, id=Boat
+#: scenarios/06_riverstory.cfg:75
+msgid "The Escape"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:87
+msgid "When will we get there?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:92
+msgid ""
+"Soon enough, I've sailed this boat for years, I know this river like the "
+"back of my hand."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:98
+msgid "What on earth?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:104
+msgid "Captain, what was that?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:109
+msgid ""
+"I don't know. This current was never here before, and we just got sucked "
+"onto it!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:114
+msgid "Back of your hand, huh?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:120
+msgid "Something dashes against the ship"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_riverstory.cfg:126 scenarios/06_riverstory.cfg:137
+#: scenarios/06_riverstory.cfg:147
+msgid "Oh blast!"
+msgstr ""
+
+#. [message]: speaker=River Bones
+#: scenarios/06_riverstory.cfg:142
+msgid "Well...what...do...we..have....here"
+msgstr ""
+
+#. [scenario]: id=07_River
+#: scenarios/07_river.cfg:4
+msgid "River"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Mal Tok
+#: scenarios/07_river.cfg:37
+msgid "Mal Tok"
+msgstr ""
+
+#. [side]: type=Really Scary Peasant Going Rambow, id=Village leader
+#: scenarios/07_river.cfg:54
+msgid "Village leader"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_river.cfg:81
+msgid "Reach the spare keep"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_river.cfg:85
+msgid "Give Mal Tok a spanking"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/08_Back_in_Business.cfg:116 scenarios/09_Carcyn-a.cfg:104
+#: scenarios/09_Carcyn-a.cfg:370 scenarios/09_Carcyn-a.cfg:666
+#: scenarios/09_Carcyn-a.cfg:915 scenarios/07_river.cfg:89
+msgid "Hero dies"
+msgstr ""
+
+#. [unit]: type=Bandit, id=Captain
+#: scenarios/07_river.cfg:98
+msgid "Captain"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:124
+msgid "What on earth just happened? Did the ship run aground?"
+msgstr ""
+
+#. [message]: id=Captain
+#: scenarios/07_river.cfg:128
+msgid "I don't think so, something attacked my boat!"
+msgstr ""
+
+#. [message]: id=Mal Tok
+#: scenarios/07_river.cfg:132
+msgid ""
+"Well, I'm impressed! This water spell does work! Now I can finally subdue "
+"this part of the river!"
+msgstr ""
+
+#. [message]: id=Captain
+#: scenarios/07_river.cfg:136
+msgid "Necromancers? we're doomed!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:140
+msgid "We're doomed? Why? Did I miss something?"
+msgstr ""
+
+#. [message]: id=Mal Tok
+#: scenarios/07_river.cfg:144
+msgid ""
+"Like me, you idiot. Now my trusty undeads will be able to ruin this villages "
+"economy by halting the boats!"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:148
+msgid ""
+"Aren't you going to kill everything and raze this place to the ground? Why "
+"bother about the economy?"
+msgstr ""
+
+#. [message]: id=Mal Tok
+#: scenarios/07_river.cfg:152
+msgid "............. "
+msgstr ""
+
+#. [message]: id=Mal Tok
+#: scenarios/07_river.cfg:156
+msgid "Oh yeah, its FUN! "
+msgstr ""
+
+#. [message]: id=Village leader
+#: scenarios/07_river.cfg:160
+msgid "Ah great, that crazy necromancer is back lads, lets kill him!"
+msgstr ""
+
+#. [message]: id=Captain
+#: scenarios/07_river.cfg:164
+msgid "Hopefully the village won't mind harboring a few wet boatmen."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:168
+msgid ""
+"Don't worry, when ever that extra keep appears, it's because you can recruit "
+"people."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:172
+msgid "How do you know all these things?"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:176
+msgid "I play Wesnoth, duh!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:180
+msgid "It's beginning to amaze me that boardgames can reflect reality."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:184
+msgid "Reality reflects the game."
+msgstr ""
+
+#. [message]: id=Captain
+#: scenarios/07_river.cfg:188
+msgid "Can we discuss this on land please?"
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:202
+msgid ""
+"We'll be glad of your assitance, strangers. Long has this mage pestered us "
+"occaisionally with his spells. Now he will pay for the last time. "
+msgstr ""
+
+#. [message]: speaker=Mal Tok
+#: scenarios/07_river.cfg:206
+msgid ""
+"Ha! That's what the hereos always say! And I will crush you dispicable "
+"people with my heel!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:210
+msgid "Then what?"
+msgstr ""
+
+#. [message]: speaker=Mal Tok
+#: scenarios/07_river.cfg:214
+msgid "I turn this place into a tourist attraction."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:218
+msgid "Huh? What's tourist? Some kind of magic or something?"
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:222
+msgid "Pay no attention to his babbling. "
+msgstr ""
+
+#. [message]: id=Village leader
+#: scenarios/07_river.cfg:229
+msgid "Hey fellows! Come expand the keep for this guy, will you?"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Nimold
+#: scenarios/07_river.cfg:234
+msgid "Nimold"
+msgstr ""
+
+#. [unit]: type=Footpad, id=Dimrod
+#: scenarios/07_river.cfg:241
+msgid "Dimrod"
+msgstr ""
+
+#. [message]: id=Dimrod
+#: scenarios/07_river.cfg:247
+msgid "Sure."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_river.cfg:304
+msgid "Arrrgggg..."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:308
+msgid "Hey you okay?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_river.cfg:312
+msgid "..."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:319
+msgid "Hellooo! Can you hear me?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/07_river.cfg:323
+msgid "Show some respect sir, I just killed the guy."
+msgstr ""
+
+#. [message]: speaker=Mal Tok
+#: scenarios/07_river.cfg:337
+msgid "I'll be back, you fools!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/07_river.cfg:341
+msgid "Blast it, he got away!"
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:345
+msgid "Look, his concentration on his forces is broken, the day is ours!"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:353
+msgid "Whew! Things will be much easier with all these soldeirs to recall."
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:357
+msgid "Recall? Do you think we are gonna follow you around? "
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:361
+msgid "Well, yeah. "
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:365
+msgid ""
+"Wrong! We are staying right here. You can have the necromancer's stash of "
+"gold if you want, I don't care."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:369
+msgid "Thanks, but we don't do these things for pay- "
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:373
+msgid "I'll take it! "
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/07_river.cfg:381
+msgid "Seventy five gold coins!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/07_river.cfg:386
+msgid "Sigh."
+msgstr ""
+
+#. [message]: id=Captain
+#: scenarios/07_river.cfg:390
+msgid "Farewell friends, I'll be heading back the city."
+msgstr ""
+
+#. [message]: speaker=Village leader
+#: scenarios/07_river.cfg:398
+msgid "Let's go home, I think I've wasted too much time already in the water. "
+msgstr ""
+
+#. [scenario]: id=08_Back_In_Business
+#: scenarios/08_Back_in_Business.cfg:4
+msgid "Back in business"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Gorrack Brimgar
+#: scenarios/08_Back_in_Business.cfg:41
+msgid "Gorrack Brimgar"
+msgstr ""
+
+#. [side]: type=Goblin Pillager, id=Seyth Vlinga
+#: scenarios/08_Back_in_Business.cfg:62
+msgid "Seyth Vlinga"
+msgstr ""
+
+#. [side]: type=Shock Trooper, id=Odyses
+#: scenarios/08_Back_in_Business.cfg:85
+msgid "Odyses"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_Back_in_Business.cfg:112
+msgid "Investigate"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:179
+msgid ""
+"Any way, the last time I came down this road, there wasn't anything except "
+"the tower, but I hear now there's a small castle and some guards. Hopefully "
+"an inn, any way."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:183
+msgid ""
+"Something's wrong, look at all this smoke, and the tower looks really "
+"battered. "
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:187
+msgid "Well I suppose, I was thinking this was a little quiet."
+msgstr ""
+
+#. [unit]: type=Lieutenant, id=Malcolm
+#: scenarios/08_Back_in_Business.cfg:196
+msgid "Malcolm"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:202
+msgid "Sssh! I hear something!"
+msgstr ""
+
+#. [message]: id=Malcolm
+#: scenarios/08_Back_in_Business.cfg:308
+msgid "There's too many!"
+msgstr ""
+
+#. [message]: id=Malcolm
+#: scenarios/08_Back_in_Business.cfg:312
+msgid "Just-*cough*-run......."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:320
+msgid "What the-"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/08_Back_in_Business.cfg:324
+msgid "It looks like the orcs are back in business."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/08_Back_in_Business.cfg:337
+msgid "Someone's coming our way!"
+msgstr ""
+
+#. [unit]: type=Orcish Grunt, id=Gronga
+#: scenarios/08_Back_in_Business.cfg:342
+msgid "Gronga"
+msgstr ""
+
+#. [message]: id=Gronga
+#: scenarios/08_Back_in_Business.cfg:349
+msgid "Ha! I found some more humans!"
+msgstr ""
+
+#. [message]: id=Gronga
+#: scenarios/08_Back_in_Business.cfg:353
+msgid "Fresh ones too, by the look of it, come on boys, lets kill 'em!"
+msgstr ""
+
+#. [unit]: type=Orcish Archer, id=Gerrig
+#: scenarios/08_Back_in_Business.cfg:358
+msgid "Gerrig"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Drikka
+#: scenarios/08_Back_in_Business.cfg:365
+msgid "Drikka"
+msgstr ""
+
+#. [unit]: type=Orcish Assassin, id=Perig
+#: scenarios/08_Back_in_Business.cfg:372
+msgid "Perig"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:379
+msgid "Run Trantel, I can handle them!"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:383
+msgid "Something wrong with you? I'm not going anywhere! "
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:402
+msgid "Let's break camp."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Back_in_Business.cfg:415
+msgid "And this was supposed to be a quiet job...."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:419
+msgid "Did someone important just die?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Back_in_Business.cfg:423
+msgid "Yes. Shame on you knights for not preventing my death."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:427
+msgid "Oh MY BAD, maybe we should save-scum just for your little hide?"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:448
+msgid "Whoa. That's one big pile of orcs if you ask me."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:452
+msgid " Yeah!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:456
+msgid "Is that entropy I detect?"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:460
+msgid "You used the wrong word. The correct term is enthusiasm."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:464
+msgid "Oh. That explains why that guy didn't want to sell me portraits."
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:468
+msgid "*covers eyes* I'm not even going to ask."
+msgstr ""
+
+#. [message]: id=Gorrack Brimgar
+#: scenarios/08_Back_in_Business.cfg:472
+msgid ""
+"Ha ha! The dead fight, and we divide the plunder! Once this guardpost falls "
+"we'll march on the towns!"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:476
+msgid "Not if I can help it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Back_in_Business.cfg:505
+msgid ""
+"I don't beleive it! The stupid ghosts attack as planned, then we attack, and "
+"then I die! "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Back_in_Business.cfg:509
+msgid "The life of an orc is so unfair!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/08_Back_in_Business.cfg:513
+msgid "Or the death, more like it."
+msgstr ""
+
+#. [message]: type=Spearman,Heavy Infantryman,Cavalryman,Peasant,Archer,Pikeman,Sergeant,Shock Trooper
+#: scenarios/08_Back_in_Business.cfg:518
+msgid ""
+"Thanks strangers. After the ghosts attacked we were weak and unprepared for "
+"this onslaught."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:522
+msgid "Is Carcyn safe?"
+msgstr ""
+
+#. [message]: type=Spearman,Heavy Infantryman,Cavalryman,Peasant,Archer,Pikeman,Sergeant,Shock Trooper
+#: scenarios/08_Back_in_Business.cfg:526
+msgid ""
+"We really don't know, any town near the grey woods isn't truly safe. "
+"Suddenly in the night ghosts just came shrieking out of the trees as if a "
+"white mage was behind them, and just pounced on the watchmen. "
+msgstr ""
+
+#. [message]: type=Spearman,Heavy Infantryman,Cavalryman,Peasant,Archer,Pikeman,Sergeant,Shock Trooper
+#: scenarios/08_Back_in_Business.cfg:530
+msgid ""
+"At dawn their numbers suddenly dwindled, and we were left in an empty "
+"battlefield, soon to be filled with orcs. "
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/08_Back_in_Business.cfg:534
+msgid "Can we just go? The orcs are running."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/08_Back_in_Business.cfg:561
+msgid "Well well, the blighter had a bag of gold behind him."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:565
+msgid "That's called thieving the dead, show some respect."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/08_Back_in_Business.cfg:573
+msgid ""
+"He's an orc, and he probably stole this from some poor soul. If we keep it, "
+"we might be able to use it to repair the damage this orc has done. "
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/08_Back_in_Business.cfg:578
+msgid "Well, I suppose, since he is an orc..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Back_in_Business.cfg:585
+msgid "Noo....."
+msgstr ""
+
+#. [scenario]: id=09_Carcyn-a
+#: scenarios/09_Carcyn-a.cfg:4
+msgid "Omens"
+msgstr ""
+
+#. [side]: type=Longbowman, id=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:40
+msgid "Gov'nah Hobbins"
+msgstr ""
+
+#. [side]: type=White Mage, id=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:57
+msgid "Father Trintas"
+msgstr ""
+
+#. [side]: type=Spectre, id=Restless Soul1
+#: scenarios/09_Carcyn-a.cfg:75
+msgid "Restless Soul"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Carcyn-a.cfg:100
+msgid "Investigate the town"
+msgstr ""
+
+#. [message]: id=Trantel
+#: scenarios/09_Carcyn-a.cfg:162
+msgid "This place gives me the creeps."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:173
+msgid ""
+"Well any fear of shadows and darkness can easily be dispelled by a good "
+"dinner! Let's see if the doorman will let us in."
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:178
+msgid "Helloo! Anybody awake?"
+msgstr ""
+
+#. [message]: id=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:185
+msgid "Helloo!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:189
+msgid "Uh, Dendrian-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:193
+msgid "Go away, nobody here! Just leave us alone!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:197
+msgid "If there's nobody here than why did you tell us to 'leave us alone?"
+msgstr ""
+
+#. [message]: id=Brother Perimor
+#: scenarios/09_Carcyn-a.cfg:202
+msgid "What troubles you, fearful one?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:206
+msgid "You don't know? Maybe they aren't the ghosts after all."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:210
+msgid "Are you mad? Of course they are! Just don't talk to them!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:222
+msgid "I've had enough of this confusion!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:228
+msgid ""
+"Trantel quickly pushes past Dendrian and expertly climbs the gate and drops "
+"into the town."
+msgstr ""
+
+#. [message]: speaker=Watchman1
+#: scenarios/09_Carcyn-a.cfg:260
+msgid "They've breached the defences! We're all gonna die!"
+msgstr ""
+
+#. [message]: speaker=Watchman
+#: scenarios/09_Carcyn-a.cfg:264
+msgid "Stand your ground men, we'll fight to the death!"
+msgstr ""
+
+#. [message]: speaker=Waken
+#: scenarios/09_Carcyn-a.cfg:268
+msgid "I'll alert the governor!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:272
+msgid "Everything all right in there?"
+msgstr ""
+
+#. [message]: speaker=Watchman2
+#: scenarios/09_Carcyn-a.cfg:276
+msgid "They're gonna kill us! We should slay them before they open the-"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:280
+msgid "*opens gate* Come on in, I think the governor wants to talk with you."
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:292
+msgid "What's going on in here?"
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:296
+msgid "Well they definitely don't look like enemies."
+msgstr ""
+
+#. [message]: speaker=Watchman2
+#: scenarios/09_Carcyn-a.cfg:300
+msgid "Are you sure?"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:304
+msgid "We are just knights, looking for shelter and a friend."
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:308
+msgid "And some answers."
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:312
+msgid "Whew! Alright everbody, it's safe! Some help has finally arrived!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:358
+msgid ""
+"A handful of nervous peasants emerge from the buildings and cautiously pick "
+"up their abandoned tasks."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Carcyn-a.cfg:366
+msgid "Speak to the governor"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:385
+msgid "The town is falling! Run you fools, run for your life!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:401
+msgid "We are all doomed!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:405
+msgid "The villagers are being slaughtered! We have failed."
+msgstr ""
+
+#. [message]: speaker=Watchman1
+#: scenarios/09_Carcyn-a.cfg:425
+msgid "There's ghosts every where! Nowhere is safe!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:429
+msgid "Ah. I see."
+msgstr ""
+
+#. [message]: speaker=Watchman
+#: scenarios/09_Carcyn-a.cfg:445
+msgid "Last night the ghosts tried to get in! We're gonna die sooner or later!"
+msgstr ""
+
+#. [message]: speaker=hunter
+#: scenarios/09_Carcyn-a.cfg:461
+msgid ""
+"It's a good thing I decided not to stay in my house, those ghosts are "
+"everywhere in the woods!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:465
+msgid "I'll take your word for it."
+msgstr ""
+
+#. [message]: speaker=hunter
+#: scenarios/09_Carcyn-a.cfg:469
+msgid ""
+"I hear undead are afraid of fire, so if your ever have to hide in my house, "
+"the there is a tinderbox behind the table, in case you want a light."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:473
+msgid "Thanks for the permission."
+msgstr ""
+
+#. [message]: speaker=refugee
+#: scenarios/09_Carcyn-a.cfg:488
+msgid ""
+"The governor keeps saying everything is fine, but heh, I don't beleive him."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:492
+msgid "I wouldn't either."
+msgstr ""
+
+#. [message]: speaker=refugee
+#: scenarios/09_Carcyn-a.cfg:496
+msgid ""
+"Those ghosts are after our blood, and the priest is doing everything he can "
+"to stop them from just roaming the streets."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:500
+msgid "My goodness!"
+msgstr ""
+
+#. [message]: speaker=refugee
+#: scenarios/09_Carcyn-a.cfg:504
+msgid "He's a good man, Father Trintas. You ought to speak to him."
+msgstr ""
+
+#. [message]: speaker=refuge
+#: scenarios/09_Carcyn-a.cfg:518
+msgid "Have you come to save us?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:522
+msgid "I...guess."
+msgstr ""
+
+#. [message]: speaker=refuge
+#: scenarios/09_Carcyn-a.cfg:526
+msgid ""
+"The spirits came out of the woods and chased me into town! I haven't been "
+"able to get to my fields at all since then!"
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:541
+msgid "How can I help you, brave one?"
+msgstr ""
+
+#. [option]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:545
+msgid "Nothing, I am fine"
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:549
+msgid "I pray that you will remain so."
+msgstr ""
+
+#. [option]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:556
+msgid "Heal me, for I am wounded."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:560
+msgid "Very well."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:572
+msgid "Go in safety, you are healed."
+msgstr ""
+
+#. [option]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:579
+msgid "Tell me of my enemy, father."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:583
+msgid "I shall do so."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:587
+msgid ""
+"They came about a week ago, and at first it was simply a danger we always "
+"face here. But then, their numbers increased, and soon the wood was filled "
+"with the whispers and flitting shadows that sent the woodsmen dashing here "
+"for safety. At first, the guard dismissed the pleas for help and simply "
+"doubled the watch, but then, probably three days ago, they attacked."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:591
+msgid ""
+"I was awakened by an unholy presence nearby, and as I peered out of my "
+"window, my fears were confirmed. The ghosts had killed the sentry, and flew "
+"wailing down the streets, killing all they met. The guards desperately "
+"battled the spirits, but the fight was hopeless. There must have been "
+"dozens, and our weapons had little or no effect to their ethereal forms. I "
+"seized my staff and did what I could, but it was only at daybreak, that the "
+"beings fled back under the shadows of the wood."
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:595
+msgid ""
+"Ever since then, I have kept watch at night, praying and encouraging the men "
+"to keep heart. The ghosts now know of my presence and dare not enter the "
+"town, but unless someone does something quickly, the people will be forced "
+"to return to the fields or starve. "
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:599
+msgid ""
+"This is like nothing I have seen in all my years serving this hamlet, it is "
+"no work of a necromancer, it is some evil that attracts the undead in force. "
+"Something calls them, and they comply. You, must find that, brave heart. All "
+"others here have no courage to venture deep into the wood. "
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:603
+msgid "What of the elves?"
+msgstr ""
+
+#. [message]: speaker=Father Trintas
+#: scenarios/09_Carcyn-a.cfg:607
+msgid ""
+"Alas, their aid is much wanted. There has been no word, and I fear they have "
+"met their end at the hands of the undead. "
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:625
+msgid "Thank God you arrived! I was debating open combat when you arrived."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:629
+msgid "Aha. What can I do for this town?"
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:633
+msgid ""
+"You do not know? The priest says that some evil is attracting the ghosts, "
+"and for certain, they are everywhere! My men are frightened and tired, and "
+"we have no food stored, You must help us rid the wood of this plaugue!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:637
+msgid ""
+"Um, okay. I came here looking for an elf named Thrend, do you know of him?"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:641
+msgid "So that's who he's looking for."
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:645
+msgid ""
+"Nay, I know nothing of elves, there is a few hiding in the town, I think. "
+"You may want to speak to them. But the undead have kept us from barely "
+"venturing out of the gates in broad daylight! Please help."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:649
+msgid ""
+"Okay, okay, I'll help. Just does anybody have any more information on the "
+"undead?"
+msgstr ""
+
+#. [message]: speaker=Gov'nah Hobbins
+#: scenarios/09_Carcyn-a.cfg:653
+msgid "You can ask the father, but I know nothing more."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Carcyn-a.cfg:658
+msgid "Destroy the evil"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Carcyn-a.cfg:662
+msgid "Find Thrend"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:684
+msgid "What do you know of an elf named Thrend?"
+msgstr ""
+
+#. [message]: speaker=Elfrefugee
+#: scenarios/09_Carcyn-a.cfg:688
+msgid "Some. What do you want, human?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:692
+msgid "I am an old friend of his, where does he live?"
+msgstr ""
+
+#. [message]: speaker=Elfrefugee
+#: scenarios/09_Carcyn-a.cfg:696
+msgid ""
+"I think 'does he still live?' is a better question. Even I, who was "
+"traveling hime yesterday, was caught unawares on the road, and had to stay "
+"in an inn like a human."
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:714
+msgid "Excuse me sir, but can you spare a moment?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:718
+msgid "Sure. What do you need?"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:722
+msgid ""
+"My poor sonny Timbel is a very brave boy, and he went hunting three days ago "
+"when it was quiet."
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:726
+msgid ""
+"Then the ghosts attacked, And he hasn't made it back. He's a very clever "
+"boy, I don't think the undead got him, please find him for me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:730 scenarios/09_Carcyn-a.cfg:787
+msgid "Um, "
+msgstr ""
+
+#. [option]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:734
+msgid "Okay, where would he go?"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:738
+msgid ""
+"There is a lot of woodcutters huts in the forest, I am sure he has enough "
+"wits to hide in one of them."
+msgstr ""
+
+#. [option]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:749
+msgid "Forget it! I'm a busy man!"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:753
+msgid "Oh dear, what shall I do?"
+msgstr ""
+
+#. [message]: speaker=Timbel
+#: scenarios/09_Carcyn-a.cfg:774
+msgid "These men rescued me, mom."
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:779
+msgid "Oh I was so worried about you!"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:783
+msgid "Oh thank you kind sirs, how can I reward you?"
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:790
+msgid "No worries, I need no reward."
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:794
+msgid "If that is what your heart is set on, I give you my thanks"
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:801
+msgid "A bit of gold in the bag is always appreciated."
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:805
+msgid "I would be glad to help! Here, take this:"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:814
+msgid "This is too much for you to spare!"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:818
+msgid ""
+"You have brought my son back alive, and that is worth more than a treasure!"
+msgstr ""
+
+#. [option]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:824
+msgid "Any healing kits lying around?"
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:828
+msgid "Yes, here, take them all! "
+msgstr ""
+
+#. [message]: speaker=Mom
+#: scenarios/09_Carcyn-a.cfg:851
+msgid "Come sonny, let's get back inside where it's safe!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:879
+msgid "There's a light in the house. *knocks* Anyone home?"
+msgstr ""
+
+#. [unit]: type=Woodsman, id=Timbel
+#: scenarios/09_Carcyn-a.cfg:887
+msgid "Timbel"
+msgstr ""
+
+#. [message]: speaker=Timbel
+#: scenarios/09_Carcyn-a.cfg:895
+msgid "Please get me home!"
+msgstr ""
+
+#. [unit]: type=Dog, id=Dog
+#: scenarios/09_Carcyn-a.cfg:902
+msgid "Timbel's dog"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Carcyn-a.cfg:911
+msgid "Get the kid to his mother"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_Carcyn-a.cfg:919
+msgid "Timbel dies"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:937
+msgid ""
+"You stare with horror at a spirit entrapped in an invisible web of evil "
+"magic, whether first created by some mortal folly, or by the ageless gnawing "
+"away of hatred, within it flickers eerie lights, and it takes the visage of "
+"one long dead. Some cloak hangs suspended over its soul, and it's hands "
+"clasp a transparent blade. What thoughts traverse through it's tormented "
+"mind, only two can the mortal eye discern: resentment at all things that "
+"echo the peace and beauty it is now robbed of, and the despair that only one "
+"bound in undeath can truly understand. With a chilling wail ancient hatred "
+"the thing hurls itself at you! "
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:951
+msgid "What is <i>that!?<i>"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:955
+msgid "Whatever it is, it's the most evil creation I have ever seen!"
+msgstr ""
+
+#. [message]: speaker=Restless Soul
+#: scenarios/09_Carcyn-a.cfg:959
+msgid ""
+"Death to the living, life to the dead. Turn away and flee while you can, "
+"pitiful mortals. You all will join me in immortality!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:963
+msgid "Let's put his immortality to the test!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:967
+msgid "And give his soul some needed rest!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:971
+msgid "And rid the village of this foul pest!"
+msgstr ""
+
+#. [message]: speaker=Trantel
+#: scenarios/09_Carcyn-a.cfg:975
+msgid "And fully complete this epic quest!"
+msgstr ""
+
+#. [message]: speaker=Sir Dendrian
+#: scenarios/09_Carcyn-a.cfg:979
+msgid "And um, er, uh....Pack our bags and go west?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Carcyn-a.cfg:1007 scenarios/09_Carcyn-a.cfg:1034
+msgid "This might be Thrend's house. *knocks*"
+msgstr ""
+
+#. [unit]: type=Elvish Fighter, id=Turgel
+#: scenarios/09_Carcyn-a.cfg:1015
+msgid "Turgel"
+msgstr ""
+
+#. [message]: speaker=Turgel
+#: scenarios/09_Carcyn-a.cfg:1023
+msgid "Quick everybody, inside!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Carcyn-a.cfg:1038
+msgid ""
+"You hear the noise of someone frantically piling objects against the door."
+msgstr ""
